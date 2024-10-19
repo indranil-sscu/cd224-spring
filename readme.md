@@ -6,27 +6,10 @@ Welcome to the **CD-224 Computers in Chemistry** course! This repository contain
 This course introduces students to Python programming with a focus on scientific applications. Topics include basic Python programming, numerical methods such as interpolation, integration, differentiation, linear algebra, and the solutions of ordinary differential equations (ODEs).
 
 ## Table of Contents
-- [Course Schedule](#course-schedule)
 - [Getting Started](#getting-started)
 - [Course Materials](#course-materials)
 - [Assignments](#assignments)
 - [Resources](#resources)
-
-## Course Schedule
-| Week | Topic |
-|------|-------|
-| 1    | Python Basics and Setup |
-| 2    | Control Flow and Functions |
-| 3    | Lists, Tuples, and Strings |
-| 4    | File I/O and Error Handling |
-| 5    | Introduction to Numerical Methods |
-| 6    | Numerical Root-Finding Methods |
-| 7    | Numerical Differentiation and Integration |
-| 8    | Linear Algebra and Solving Linear Systems |
-| 9    | Eigenvalue Problems and Linear Data Fitting |
-| 10   | Interpolation and Extrapolation |
-| 11   | Solving ODEs (Euler, Runge-Kutta) |
-| 12   | Final Project / Advanced Topics |
 
 ## Getting Started
 
@@ -37,7 +20,7 @@ To follow along with this course, you should have Python 3.x installed on your m
 1. On Windows machines open the Anaconda Powershell Prompt (as an administrator) and input the following commands
    ```conda create --name cd224-pyenv python=3.10
 conda activate cd224-pyenv
-conda install numpy matplotlib scipy pandas sympy```
+conda install numpy matplotlib scipy pandas sympy
 
 2. On Unix machines use your preferred package manager to install conda. Make sure to add conda to .zshrc or appropriate shell configuration file.
 
