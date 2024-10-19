@@ -27,10 +27,10 @@ To follow along with this course, you should have Python 3.x installed on your m
 2. On Unix machines use your preferred package manager to install conda. Make sure to add conda to .zshrc or appropriate shell configuration file.
 
 ## Folder Structure
-/lectures/ - Contains Jupyter notebooks and scripts for each week’s lecture.
-/assignments/ - Contains homework and assignments for students.
-/solutions/ - Includes solutions to assignments (locked until the due date).
-/data/ - Contains datasets used in examples and assignments.
+* /lectures/ - Contains Jupyter notebooks and scripts for each week’s lecture.
+* /assignments/ - Contains homework and assignments for students.
+* /solutions/ - Includes solutions to assignments (locked until the due date).
+* /data/ - Contains datasets used in examples and assignments.
 
 ## Course Materials
 You will find lecture notes, code examples, and related materials in the following format:
