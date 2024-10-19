@@ -14,7 +14,7 @@ This course introduces students to Python programming with a focus on scientific
 ## Getting Started
 
 ### Prerequisites
-To follow along with this course, you should have Python 3.x installed on your machine. We recommend using [Anaconda](https://www.anaconda.com/products/individual) to manage your Python environment and packages.
+To follow along with this course, you should have Python 3.x installed on your machine. We recommend using [Anaconda](https://www.anaconda.com/products/individual) or [MiniConda](https://docs.anaconda.com/miniconda/) to manage your Python environment and packages.
 
 ### Installation
 
@@ -27,10 +27,10 @@ To follow along with this course, you should have Python 3.x installed on your m
 2. On Unix machines use your preferred package manager to install conda. Make sure to add conda to .zshrc or appropriate shell configuration file.
 
 ## Folder Structure
-* /lectures/ - Contains Jupyter notebooks and scripts for each week’s lecture.
-* /assignments/ - Contains homework and assignments for students.
-* /solutions/ - Includes solutions to assignments (locked until the due date).
-* /data/ - Contains datasets used in examples and assignments.
+* lectures/ - Contains Jupyter notebooks and scripts for each week’s lecture.
+* assignments/ - Contains homework and assignments for students.
+* solutions/ - Includes solutions to assignments (locked until the due date).
+* data/ - Contains datasets used in examples and assignments.
 
 ## Course Materials
 You will find lecture notes, code examples, and related materials in the following format:
@@ -42,7 +42,7 @@ You will find lecture notes, code examples, and related materials in the followi
 * __Assignments:__ Problem sets that help reinforce the concepts learned in each module.
 
 ## Assignments
-Each week includes an assignment to be submitted via Microsoft Teams.
+Assignments need to be submitted via Microsoft Teams.
 
 ## Resources
 Here are some useful resources to help you with Python programming and numerical methods:
