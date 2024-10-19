@@ -14,7 +14,7 @@ This course introduces students to Python programming with a focus on scientific
 ## Getting Started
 
 ### Prerequisites
-To follow along with this course, you should have Python 3.x installed on your machine. We recommend using [Anaconda](https://www.anaconda.com/products/individual) or [MiniConda](https://docs.anaconda.com/miniconda/) to manage your Python environment and packages.
+To follow along with this course, you should have Python 3.x installed on your machine. We recommend using [Anaconda](https://www.anaconda.com/products/individual) or [Miniconda](https://docs.anaconda.com/miniconda/) to manage your Python environment and packages.
 
 ### Installation
 
