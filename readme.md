@@ -42,7 +42,7 @@ You will find lecture notes, code examples, and related materials in the followi
 * __Assignments:__ Problem sets that help reinforce the concepts learned in each module.
 
 ## Assignments
-Assignments need to be submitted via Microsoft Teams.
+Assignments need to be submitted via Microsoft Teams. All homeworks have to submitted in a zip file. The zipped file has to be named: Yourname_HW<#>.zip The directory that this opens has to be named Yourname_HW<#>. This directory should contain a subdirectory for each homework problem – numbered according to the problem number. In each of the subdirectories, you have to submit the source code as well as the output of the program.
 
 ## Resources
 Here are some useful resources to help you with Python programming and numerical methods:
@@ -51,4 +51,6 @@ Here are some useful resources to help you with Python programming and numerical
 * [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
 ## Contributing
-Feel free to open issues or contribute to the repository by submitting pull requests. We encourage collaboration to improve course materials!
+Feel free to open issues or contribute to the repository by submitting pull requests. We encourage collaboration to improve course materials! Happy learning.
+
+![import antigravity](https://imgs.xkcd.com/comics/python.png)
