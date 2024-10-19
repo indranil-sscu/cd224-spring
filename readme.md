@@ -17,10 +17,12 @@ This course introduces students to Python programming with a focus on scientific
 To follow along with this course, you should have Python 3.x installed on your machine. We recommend using [Anaconda](https://www.anaconda.com/products/individual) to manage your Python environment and packages.
 
 ### Installation
-1. On Windows machines open the Anaconda Powershell Prompt (as an administrator) and input the following commands
-   ```conda create --name cd224-pyenv python=3.10
-conda activate cd224-pyenv
-conda install numpy matplotlib scipy pandas sympy
+
+1. On Windows machines, open the Anaconda PowerShell Prompt (as an administrator) and enter the following commands:
+   ```bash
+   conda create --name cd224-pyenv python=3.10
+   conda activate cd224-pyenv
+   conda install numpy matplotlib scipy pandas sympy
 
 2. On Unix machines use your preferred package manager to install conda. Make sure to add conda to .zshrc or appropriate shell configuration file.
 
