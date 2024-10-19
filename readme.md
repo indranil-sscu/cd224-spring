@@ -1,4 +1,4 @@
-# Computers in Chemistry (Python Programming) - Course Repository
+# Computers in Chemistry (Python Programming)
 
 Welcome to the **CD-224 Computers in Chemistry** course! This repository contains the course materials, including lecture notes, assignments, examples, and solutions related to Python programming and numerical methods.
 
