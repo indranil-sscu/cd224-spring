@@ -3,7 +3,7 @@
 Welcome to the **CD-224 Computers in Chemistry** course! This repository contains the course materials, including lecture notes, assignments, examples, and solutions related to Python programming and numerical methods.
 
 ## Course Overview
-This course introduces students to Python programming with a focus on scientific applications. Topics include basic Python programming, numerical methods such as interpolation, integration, differentiation, linear algebra, and the solutions of ordinary differential equations (ODEs).
+This course introduces Python programming with a focus on scientific applications. Topics include basic Python programming, numerical methods such as interpolation, integration, differentiation, linear algebra, and the solutions of ordinary differential equations (ODEs).
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -28,7 +28,7 @@ To follow along with this course, you should have Python 3.x installed on your m
 
 ## Folder Structure
 * lectures/ - Contains Jupyter notebooks and scripts for each week’s lecture.
-* assignments/ - Contains homework and assignments for students.
+* assignments/ - Contains homework and assignments.
 * solutions/ - Includes solutions to assignments (locked until the due date).
 * data/ - Contains datasets used in examples and assignments.
 
