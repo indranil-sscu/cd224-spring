@@ -68,6 +68,8 @@ Here are some useful resources to help you with Python programming and numerical
 * [Python Documentation](https://docs.python.org/3/)
 * [Numpy Documentation](https://numpy.org/doc/)
 * [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+* [cs50 Python Programming](https://www.harvardonline.harvard.edu/course/cs50s-introduction-programming-python)
+* [Holistic Numerical Methods](https://nm.mathforcollege.com/audiovisual-digital-lectures/)
 
 ## Contributing
 Feel free to open issues or contribute to the repository by submitting pull requests. Happy learning!
