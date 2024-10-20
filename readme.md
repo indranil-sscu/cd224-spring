@@ -20,22 +20,27 @@ To follow along with this course, you should have Python 3.x installed on your m
 
 1. On Windows machines, open the Anaconda PowerShell Prompt (as an administrator) and enter the following commands:
    ```bash
-   conda create --name cd224-pyenv python=3.10
+   conda create --name cd224-pyenv
    conda activate cd224-pyenv
-   conda install numpy matplotlib scipy pandas sympy
+   conda install numpy matplotlib scipy pandas sympy jupyterlab
 
 2. On Unix machines use your preferred package manager to install conda. Make sure to add conda to .zshrc or appropriate shell configuration file.
    ```bash
    conda create --name cd224-pyenv --file requirements.txt
    conda activate cd224-pyenv
 
+## Recommended IDEs
+
+For this course, we suggest using Visual Studio Code (VS Code) or Spyder as your IDE. VS Code offers versatility with extensions, integrated Git support, and Jupyter notebook compatibility. Spyder is tailored for scientific computing with features like a variable explorer and an interactive console. Choose VS Code for customization and multi-language support, or Spyder for a focused scientific programming environment. Install via [VS Code](https://code.visualstudio.com) or [Spyder](https://www.spyder-ide.org).
+
+
 ## Cloning and Updating the Repository
 
-1. Install git for Windows [git](https://git-scm.com/downloads/win). Clone this repository to your local machine:
+1. Install [git](https://git-scm.com/downloads/win) for Windows. Clone this repository to your local machine.
    ```bash
    git clone https://indranil-sscu/cd224-spring.git
 
-2. Update the repository regularly to stay up to date with new materials
+2. Update the repository regularly to stay up to date with new materials.
    ```bash
    cd cd224-spring
    git pull origin main
