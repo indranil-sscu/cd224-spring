@@ -31,13 +31,13 @@ To follow along with this course, you should have Python 3.x installed on your m
 
 ## Cloning and Updating the Repository
 
-1. Clone this repository to your local machine:
+1. Install git for Windows [git](https://git-scm.com/downloads/win). Clone this repository to your local machine:
    ```bash
-   git clone indranil-sscu/cd224-spring
+   git clone https://indranil-sscu/cd224-spring.git
 
 2. Update the repository regularly to stay up to date with new materials
    ```bash
-   cd <repository-folder>
+   cd cd224-spring
    git pull origin main
 
 ## Folder Structure
