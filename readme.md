@@ -25,6 +25,9 @@ To follow along with this course, you should have Python 3.x installed on your m
    conda install numpy matplotlib scipy pandas sympy
 
 2. On Unix machines use your preferred package manager to install conda. Make sure to add conda to .zshrc or appropriate shell configuration file.
+   ```bash
+   conda create --name cd224-pyenv --file requirements.txt
+   conda activate cd224-pyenv
 
 ## Folder Structure
 * lectures/ - Contains Jupyter notebooks and scripts for each week’s lecture.
@@ -51,6 +54,6 @@ Here are some useful resources to help you with Python programming and numerical
 * [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
 ## Contributing
-Feel free to open issues or contribute to the repository by submitting pull requests. We encourage collaboration to improve course materials! Happy learning.
+Feel free to open issues or contribute to the repository by submitting pull requests. Happy learning!
 
 ![import antigravity](https://imgs.xkcd.com/comics/python.png)
