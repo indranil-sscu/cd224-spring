@@ -18,13 +18,13 @@ To follow along with this course, you should have Python 3.x installed on your m
 
 ### Installation
 
-1. On Windows machines, open the Anaconda PowerShell Prompt (as an administrator) and enter the following commands:
+* On Windows machines, open the Anaconda PowerShell Prompt (as an administrator) and enter the following commands:
    ```bash
    conda create --name cd224-pyenv
    conda activate cd224-pyenv
    conda install numpy matplotlib scipy pandas sympy jupyterlab
 
-2. On Unix machines use your preferred package manager to install conda. Make sure to add conda to .zshrc or appropriate shell configuration file.
+* On Unix machines use your preferred package manager to install conda. Make sure to add conda to .zshrc or appropriate shell configuration file.
    ```bash
    conda create --name cd224-pyenv --file requirements.txt
    conda activate cd224-pyenv
@@ -36,7 +36,7 @@ For this course, we suggest using Visual Studio Code (VS Code) or Spyder as your
 
 ## Cloning and Updating the Repository
 
-1. Install [git](https://git-scm.com/downloads/win) for Windows. Clone this repository to your local machine.
+1. Install [git](https://git-scm.com/downloads/win) for Windows (comes preinstalled in most Unix machines). Clone this repository to your local machine.
    ```bash
    git clone https://github.com/indranil-sscu/cd224-spring.git
 
