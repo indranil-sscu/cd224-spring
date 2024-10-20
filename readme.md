@@ -29,6 +29,17 @@ To follow along with this course, you should have Python 3.x installed on your m
    conda create --name cd224-pyenv --file requirements.txt
    conda activate cd224-pyenv
 
+## Cloning and Updating the Repository
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone indranil-sscu/cd224-spring
+
+2. Update the repository regularly to stay up to date with new materials
+   ```bash
+   cd <repository-folder>
+   git pull origin main
+
 ## Folder Structure
 * lectures/ - Contains Jupyter notebooks and scripts for each week’s lecture.
 * assignments/ - Contains homework and assignments.
