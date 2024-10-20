@@ -31,7 +31,7 @@ To follow along with this course, you should have Python 3.x installed on your m
 
 ## Recommended IDEs
 
-For this course, we suggest using Visual Studio Code (VS Code) or Spyder as your IDE. VS Code offers versatility with extensions, integrated Git support, and Jupyter notebook compatibility. Spyder is tailored for scientific computing with features like a variable explorer and an interactive console. Choose VS Code for customization and multi-language support, or Spyder for a focused scientific programming environment. Install via [VS Code](https://code.visualstudio.com) or [Spyder](https://www.spyder-ide.org).
+For this course, we suggest using Visual Studio Code (VS Code) or Spyder as your IDE. Install via [VS Code](https://code.visualstudio.com) or [Spyder](https://www.spyder-ide.org).
 
 
 ## Cloning and Updating the Repository
