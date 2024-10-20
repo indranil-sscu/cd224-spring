@@ -38,7 +38,7 @@ For this course, we suggest using Visual Studio Code (VS Code) or Spyder as your
 
 1. Install [git](https://git-scm.com/downloads/win) for Windows. Clone this repository to your local machine.
    ```bash
-   git clone https://indranil-sscu/cd224-spring.git
+   git clone https://github.com/indranil-sscu/cd224-spring.git
 
 2. Update the repository regularly to stay up to date with new materials.
    ```bash
