@@ -31,7 +31,26 @@ To follow along with this course, you should have Python 3.x installed on your m
 
 ## Recommended IDEs
 
-For this course, we suggest using Visual Studio Code (VS Code) or Spyder as your IDE. Install via [VS Code](https://code.visualstudio.com) or [Spyder](https://www.spyder-ide.org).
+For this course, we suggest using Visual Studio Code (VS Code) or Spyder as your IDE. Install via [VS Code](https://code.visualstudio.com) or [Spyder](https://www.spyder-ide.org).<br>
+Here’s a little tip: you can run almost all your code online, hassle-free, with no configuration needed. Just head over to Google Colab, and you’re good to go!
+<h3>Getting Started with Google Colab</h2>
+
+<p><strong>Google Colab</strong> is an online platform that provides a fully configured Python environment, allowing you to run Python code directly in your browser without the need to install anything locally.</p>
+
+<p>With Colab, you can:</p>
+<ul>
+    <li><strong>Run Jupyter Notebooks Online:</strong> Colab notebooks work like Jupyter Notebooks, making it easy to experiment with Python code and see results in real-time.</li>
+    <li><strong>Collaborate Easily:</strong> Share notebooks with others and collaborate in real-time, just like Google Docs.</li>
+</ul>
+
+<h4>How to Use Colab with This Repository</h3>
+<ol>
+    <li>Open a notebook file in this repository and click on the “Open in Colab” badge.</li>
+    <li>Run cells sequentially to see outputs and experiment with the code.</li>
+    <li>Save your progress in your Google Drive for easy access across devices.</li>
+</ol>
+
+<p>For more details, explore the <a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank">Google Colab Documentation</a>.</p> 
 
 
 ## Cloning and Updating the Repository
