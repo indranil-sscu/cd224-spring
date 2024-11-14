@@ -71,7 +71,14 @@ Here are some useful resources to help you with Python programming and numerical
 * [cs50 Python Programming](https://cs50.harvard.edu/python/2022/)
 * [Holistic Numerical Methods](https://nm.mathforcollege.com/audiovisual-digital-lectures/)
 
-## Contributing
-Feel free to open issues or contribute to the repository by submitting pull requests. Happy learning!
+##  Happy learning!
+
+Give your coding adventure a boost—try running this whimsical command and get ready for a lift:
+
+   ```bash
+   import antigravity
+   ```
+
+Who knows? Python might just take you for a ride beyond your wildest code dreams!
 
 ![import antigravity](https://imgs.xkcd.com/comics/python.png)
